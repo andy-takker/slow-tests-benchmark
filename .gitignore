@@ -1,0 +1,5 @@
+# junit/логи прогонов и профили не публикуются (имена тестов приватного проекта)
+results/*.log
+results/*.xml
+results/*.out
+__pycache__/

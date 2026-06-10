@@ -1,0 +1,7 @@
+variant,run,wall_seconds,exit_code
+a1_session_default_truncate,1,214.0,0
+a1_session_default_truncate,2,227.2,0
+a2_session_fast_truncate,1,242.7,0
+a2_session_fast_truncate,2,253.8,0
+a3_session_fast_delete,1,107.2,0
+a3_session_fast_delete,2,110.4,0

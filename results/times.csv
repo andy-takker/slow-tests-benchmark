@@ -1,0 +1,13 @@
+variant,run,wall_seconds,exit_code
+baseline,1,127.1,0
+baseline,2,123.3,0
+baseline,3,124.9,0
+truncate,1,152.2,0
+truncate,2,154.9,0
+truncate,3,179.8,0
+argon2_default,1,140.4,0
+argon2_default,2,143.6,0
+argon2_default,3,139.1,1
+function_scope,1,1877.5,0
+function_scope,2,1920.6,0
+function_scope,3,1874.3,0

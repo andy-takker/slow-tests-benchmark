@@ -2,4 +2,13 @@
 results/*.log
 results/*.xml
 results/*.out
+# операционные артефакты харнесса (пути, xtrace, runtime-состояние — внутрянка)
+results/*.raw
+results/*.debug
+results/*.progress
+results/*.nohup
+results/*.pid
+results/experiment.pid
+results/sanity.*
+results/archive-*/
 __pycache__/

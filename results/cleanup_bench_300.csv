@@ -1,0 +1,4 @@
+strategy,median_ms,min_ms,max_ms,mean_ms,cycles
+delete,9.240,8.275,11.932,9.298,300
+truncate,12.577,11.655,34.671,12.741,300
+template,33.230,28.911,67.115,33.477,300
